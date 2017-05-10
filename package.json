@@ -1,0 +1,16 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "learn typescript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "run": "webpack --watch --optimize-minimize",
+    "server": "http-server -c-1",
+    "test": ""
+  },
+  "author": "Lord Hung",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
